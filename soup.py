@@ -1,4 +1,4 @@
-from  urlib.request
+from  urllib.request
 from bs4 import BeautifulSoup
 
 class Scraper:
